@@ -1,9 +1,9 @@
-# Unbeatable-Tic
+# Unbeatable TicTacToe DiscordBot
 
 https://user-images.githubusercontent.com/104532194/178116981-239e6385-b891-4bc6-b687-271a29a02e05.mp4
 
 
-# Table of contents
+# Table of Contents
 1. [About](#about)
     * [Built With](#builtwith)
 2. [Getting Started](#gettingstarted)
