@@ -41,7 +41,9 @@ This program is built with the following languages:
 
 # Usage <a name="usage"></a>
 If you want to try out this bot on your server, click this link:
+
 https://discord.com/api/oauth2/authorize?client_id=994358014700163072&permissions=0&scope=bot
+
 If you do, it is greatly appreciated :)
 
 # Contact <a name="contact"></a>
