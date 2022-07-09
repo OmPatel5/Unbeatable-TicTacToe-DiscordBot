@@ -23,6 +23,16 @@ This program is built with the following languages:
 # Getting Started <a name="gettingstarted"></a>
 **To get this project running follow these steps**
 
+## Installation <a name="installation"></a>
+1. Clone the Repository
+```sh
+   git clone https://github.com/OmPatel5/Unbeatable-TicTacToe-DiscordBot.git
+   ```
+2. Install discord.py Rewrite
+```sh
+   pip install -U git+https://github.com/Rapptz/discord.py@rewrite
+   ```
+
 add this bot to discord server:
 
 
