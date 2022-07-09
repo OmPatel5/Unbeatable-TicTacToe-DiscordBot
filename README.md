@@ -16,6 +16,11 @@ This bot has 4 commands: $tictactoe, which starts a new game, $place which place
 ## How the MiniMax Algorithim Works
 The bot (player X) uses the MiniMax algorithim to determine which move is the best. In the current positions of the board, the bot simulates all of the possible positions it can go to. Then, the bot simulates all of the possible positions the other player can go to. It does this until the game is over. The bot makes these branches/paths of the possible moves the bot can make and the player can make. Then the bot looks at the final positions, and then gives a value.
 
+## Built With <a name="builtwith"></a>
+This program is built with the following languages:
+* Python
+
+
 add this bot to discord server:
 
 
