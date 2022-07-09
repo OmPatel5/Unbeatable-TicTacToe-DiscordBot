@@ -5,7 +5,8 @@
     * [Built With](#builtwith)
 2. [Getting Started](#gettingstarted)
     * [Installation](#installation) 
-3. [Contact](#contact)
+3. [Usage](#usage)
+4. [Contact](#contact)
 
 # About <a name="about"></a>
 This is my Discord Bot I made with discord.py rewrite. This discord bot is a Tic Tac Toe bot which is unbeatable and uses an AI algorithm called MiniMax.
@@ -32,8 +33,18 @@ This program is built with the following languages:
 ```sh
    pip install -U git+https://github.com/Rapptz/discord.py@rewrite
    ```
+3. Put your bot's Discord Token on this line
+```sh
+   client.run('place your token here')
+   ```
+   (line 437)
 
-add this bot to discord server:
-
-
+# Usage <a name="usage"></a>
+If you want to try out this bot on your server, click this link:
 https://discord.com/api/oauth2/authorize?client_id=994358014700163072&permissions=0&scope=bot
+If you do, it is greatly appreciated :)
+
+# Contact <a name="contact"></a>
+Om Patel - omp091216@gmail.com
+
+Project Link: https://github.com/OmPatel5/Unbeatable-TicTacToe-DiscordBot
