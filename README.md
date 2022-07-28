@@ -47,7 +47,6 @@ If you want to try out this bot on your server, click this link:
 
 https://discord.com/api/oauth2/authorize?client_id=994358014700163072&permissions=0&scope=bot
 
-If you do, it is greatly appreciated :)
 
 # Contact <a name="contact"></a>
 Om Patel - omp091216@gmail.com
